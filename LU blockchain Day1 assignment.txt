@@ -1,0 +1,35 @@
+1 what is your understanding of blockchain.
+
+Ans - blockchain is a chain of blocks which each contain 
+      there own specific data and each one of them has thier own
+      unique key even if the data stored is identical as they 
+      also own the key of the previous block. The whole chain
+      is shared with various people. 
+
+2 what is the core problem blockchain trying to solve ?
+
+Ans - The need of a strong middle man
+      Data Security and Trust 
+      protection from willful fraud and theft
+      Transperecy issues
+
+3 what are the few features which blockchain will give you
+
+Ans - Verfied
+      Unchangeable
+      Tamper-free 
+      Immutable
+
+4 what all things does a blockchain contain ?
+
+Ans - Blockchain contains blocks which each have data and
+      a key and are connected to each other and distributes 
+      across various computers.
+
+5 How is the verfiability of blockchain is been attained ?
+
+Ans - As the Data is stored in various places whenever new
+      Data is added the unique which is generated is shared
+      and if all anyone of the key is incorrect meaning does
+      not match everyone else we know that the data is not 
+      correct and is repalced.
